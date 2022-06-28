@@ -11,4 +11,3 @@ Any doubts, contact me:
 
 **LinkedIn**: https://linkedin.com/in/jhroveda
 
-*Attribution Noncommercial (BY-NC)*
