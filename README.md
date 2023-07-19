@@ -1,4 +1,7 @@
 # INMET Database Maker
+
+[![Bandit](https://github.com/josehenriqueroveda/INMET_database/actions/workflows/bandit.yml/badge.svg)](https://github.com/josehenriqueroveda/INMET_database/actions/workflows/bandit.yml)
+
 The **National Institute of Meteorology** of Brazil provides weather station data free of charge via the website: https://bdmep.inmet.gov.br/
 
 The data comes in *.csv* format, containing a header and a table.
