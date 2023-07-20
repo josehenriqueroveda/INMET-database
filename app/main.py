@@ -29,6 +29,7 @@ class WeatherStationLoader:
     load_file(year: str, file: str)
         Loads a single weather station data file into the database.
     """
+
     def __init__(self, engine: Engine):
         self.engine = engine
 
